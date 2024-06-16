@@ -1,10 +1,11 @@
+<a href="https://komarev.com/ghpvc/?username=divyang">
+  <img align="right" src="https://komarev.com/ghpvc/?username=divyang&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<a href="https://komarev.com/ghpvc/?username=divyang">
-  <img align="right" src="https://komarev.com/ghpvc/?username=divyang&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
 
 - 🔭 I’m currently working on **Podstream Web App**
 
@@ -44,8 +45,6 @@
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
 <p align="left">
   <a href="https://github.com/harshityadaav?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
