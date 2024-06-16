@@ -1,8 +1,10 @@
+
+<h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
+
 <a href="https://komarev.com/ghpvc/?username=divyang">
   <img align="right" src="https://komarev.com/ghpvc/?username=divyang&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-<h1 align="center">Hi 👋, I'm Harshit Yadav</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -23,7 +25,7 @@
 <a href="https://www.instagram.com/harshityadaav/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 </p>
 
-## Use To Code
+<h3 align="left">Languages and Tools:</h3>
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
