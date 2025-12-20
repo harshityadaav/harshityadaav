@@ -8,7 +8,7 @@ Building scalable backend systems, REST APIs, and microservices in production.
 ### ⚙️ Skills
 **Languages:** JavaScript, TypeScript  
 **Backend:** Node.js, Express.js, NestJS, Bun.js  
-**Databases:** MongoDB, SQL
+**Databases:** MongoDB, SQL  
 **Cloud & DevOps:** Docker, AWS, CI/CD  
 **Frontend:** React, Next.js  
 
