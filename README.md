@@ -1,29 +1,25 @@
-## 👋 Hi, I’m Harshit Yadav
-**Backend Engineer | 2.5+ Years Experience**
+## 👋 Harshit Yadav
+**Backend Engineer | 2.5+ Years**
 
-Backend engineer experienced in building **scalable backend systems, REST APIs, and microservices** in production environments.
+Building scalable backend systems, REST APIs, and microservices in production.
 
 ---
 
-### 🛠️ Tech Stack
-**Backend:** Node.js, Express.js, NestJS  
+### ⚙️ Skills
+**Backend:** Node.js, Express.js, NestJS, **Bun.js**  
 **Databases:** MongoDB, PostgreSQL  
-**Cloud & DevOps:** Docker, AWS, CI/CD  
+**Cloud:** Docker, AWS, CI/CD  
 
 ---
 
-### 🚀 Recent Work
-
-**My Ayur (Backend)**  
-🔹 Microservices backend • AWS ECS • Docker  
+### 🚀 Work
+**My Ayur** — Microservices backend • AWS ECS • Docker  
 🔗 https://play.google.com/store/apps/details?id=com.sreshtayurveda.myayur  
 
-**PatientPulse (Backend)**  
-🔹 Backend APIs • Async AI processing  
+**PatientPulse** — Backend APIs • Async AI processing  
 🔗 https://patientpulse.io/
 
 ---
 
 ### 📫 Contact
-📧 harshit2622002@gmail.com  
-🔗 https://www.linkedin.com/in/harshit-yadaav/
+📧 harshit2622002@gmail.com | 🔗 https://www.linkedin.com/in/harshit-yadaav/
