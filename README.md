@@ -1,5 +1,5 @@
 ## 👋 Harshit Yadav
-**Backend Engineer | 2.5+ Years**  
+**Backend Engineer
 Building scalable backend systems, REST APIs, and microservices in production.
 
 ---
