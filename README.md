@@ -13,7 +13,7 @@ Building scalable backend systems, REST APIs, and microservices in production.
 
 ---
 
-### 🚀 Work
+### 🚀 Recent Work
 **My Ayur** — Microservices backend • AWS ECS • Docker  
 🔗 [Play Store](https://play.google.com/store/apps/details?id=com.sreshtayurveda.myayur)  
 
