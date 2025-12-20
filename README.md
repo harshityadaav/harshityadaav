@@ -1,5 +1,5 @@
 ## 👋 Harshit Yadav
-**Backend Engineer
+**Backend Engineer**
 Building scalable backend systems, REST APIs, and microservices in production.
 
 ---
