@@ -1,7 +1,7 @@
 ## 👋 Harshit Yadav
 **Backend Engineer**
 
-Building scalable backend systems, REST APIs, and microservices in production.
+Backend-heavy Full Stack Developer building scalable backend systems, REST APIs, and production-grade microservices, with frontend development in React and Next.js.
 
 ---
 
